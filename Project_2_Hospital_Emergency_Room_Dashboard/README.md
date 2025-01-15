@@ -36,12 +36,22 @@ This dashboard provides a real-time overview of key performance indicators (KPIs
 - **Targeted Interventions**: Pinpoints areas to enhance patient satisfaction and address specific concerns.
 
 ---
+---
 
-## Tools Used
-- **Power BI**: For creating interactive dashboards and analyzing data.
-- **Data Sources**: Public datasets from hospital operations and patient records (e.g., Kaggle).
+## **Access the Dashboard**  
+Explore the live dashboard here: **[Link to Online Reports Page](https://app.powerbi.com/view?r=eyJrIjoiMjdjMTY1ZDItNjI0Ni00Y2YzLWE0ZTMtMWNmNzEzYzk2ZDAwIiwidCI6ImU4ZmUxZDE4LTQxMjAtNDlmYy04NjMxLWQzNjE5M2FjMGMxZSJ9)**  
 
 ---
 
-## Acknowledgment
-Special thanks to Kaggle and other online resources for providing the datasets and guidance that helped complete this project.
+## **Final Output**  
+
+### **Screenshots**  
+### **Hospital Emergency Room Dashboard**  
+![](Monthly_View.png)  
+
+### **Consolidated View**  
+![](Consolidated_View.png)  
+
+### **Patient Details**  
+![](Patient_Details.png)  
+
