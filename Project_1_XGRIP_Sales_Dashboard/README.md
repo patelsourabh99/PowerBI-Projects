@@ -2,22 +2,6 @@
 
 # **XGRIP Sales and Profit Analytics Dashboard**  
 
-## **Dashboard Screenshots**  
-
-### **Light and Dark Executive Dashboard**  
-![Light and Dark Mode](https://github.com/najirh/XGRIP-Power-BI-Executive-Dashboard/blob/main/light%20dashboard.png)  
-
-
-### **Sales Overview Dashboard**  
-![Sales Overview](https://github.com/najirh/XGRIP-Power-BI-Executive-Dashboard/blob/main/dark%20dashboard.png)  
-
-### **Product Analysis Dashboard**  
-![Product Analysis](https://github.com/najirh/XGRIP-Power-BI-Executive-Dashboard/blob/main/product.png)  
-
-### **Map Analysis Dashboard**  
-![Map Analysis](https://github.com/najirh/XGRIP-Power-BI-Executive-Dashboard/blob/main/dark%20map.png)  
-
-
 ---
 
 ## **Objective**  
@@ -28,7 +12,7 @@ The goal of this project was to develop an interactive, user-friendly analytics 
 ## **Project Overview**  
 
 ### **Key Features**  
-- Integration of diverse data sources (PostgreSQL, MySQL, Excel, CSV, and PDF).  
+- Integration of diverse data sources (PostgreSQL, SQL Server, Excel, CSV, and PDF).  
 - Currency standardization using USD conversion for consistent reporting across countries.  
 - Profitability analysis incorporating COGS, discounts, and quantities.  
 - Interactive dashboards with slicers, custom panes, and drillthrough buttons for detailed analysis.  
@@ -37,7 +21,7 @@ The goal of this project was to develop an interactive, user-friendly analytics 
 - Implementation of Row-Level Security (RLS) to secure sensitive data.  
 
 ### **Technology Stack**  
-- **Data Sources:** PostgreSQL, MySQL, Excel, CSV, PDF.  
+- **Data Sources:** PostgreSQL, SQL Server, Excel, CSV, PDF.  
 - **Tools:** Power BI, Power Query, DAX.  
 - **Gateway:** Power BI Gateway for scheduled refresh.  
 
@@ -48,7 +32,7 @@ The goal of this project was to develop an interactive, user-friendly analytics 
 ### **1. Data Integration**  
 - Connected to multiple data sources:  
   - PostgreSQL (cloud-hosted sales data).  
-  - MySQL (local warehouse data).  
+  - SQL Server (local warehouse data).  
   - Excel, CSV, and PDF files for supplementary data like currency rates.  
 - Used **Power Query** for data cleaning, transformation, and merging.  
 
@@ -85,16 +69,16 @@ The goal of this project was to develop an interactive, user-friendly analytics 
 
 ### **Screenshots**  
 ### **Sales Overview Dashboard**  
-![Sales Overview](https://github.com/najirh/XGRIP-Power-BI-Executive-Dashboard/blob/main/dark%20dashboard.png)  
+![Sales Overview](XGRIP_light_mode.png)  
 
 ### **Product Analysis Dashboard**  
-![Product Analysis](https://github.com/najirh/XGRIP-Power-BI-Executive-Dashboard/blob/main/product.png)  
+![Product Analysis](Product_chart.png)  
 
 ### **Map Analysis Dashboard**  
-![Map Analysis](https://github.com/najirh/XGRIP-Power-BI-Executive-Dashboard/blob/main/dark%20map.png)  
+![Map Analysis](map_chart.png)  
 
 ### **Light and Dark Mode Example**  
-![Light and Dark Mode](https://github.com/najirh/XGRIP-Power-BI-Executive-Dashboard/blob/main/light%20dashboard.png)  
+![Light and Dark Mode](dark_mode.png)  
 
 
 ---
@@ -109,7 +93,7 @@ The goal of this project was to develop an interactive, user-friendly analytics 
 ---
 
 ## **Access the Dashboard**  
-Explore the live dashboard here: **[Link to Online Reports Page](https://app.powerbi.com/view?r=eyJrIjoiMDE5N2U2ZTAtZDA2Zi00MDgyLWI0MjMtZTlkYjc1ODc0MWVkIiwidCI6ImY3NDM5NmYzLTgwMTUtNGI3NC1iNDY4LWNkYTA0NTEzZDg0YyJ9)**  
+Explore the live dashboard here: **[Link to Online Reports Page](https://app.powerbi.com/view?r=eyJrIjoiNGM0YjQ1NTMtNTNiZS00NTE3LThhY2YtYTRmNThhNTk1ZTYxIiwidCI6ImU4ZmUxZDE4LTQxMjAtNDlmYy04NjMxLWQzNjE5M2FjMGMxZSJ9)**  
 
 ---
 
@@ -120,3 +104,5 @@ Explore the live dashboard here: **[Link to Online Reports Page](https://app.pow
 4. Toggle between light and dark modes for your viewing preference.  
 
 ---
+
+### Thank You
